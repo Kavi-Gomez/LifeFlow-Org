@@ -119,7 +119,7 @@ const DonorProfileAdvanced = () => {
             Profile
           </TabsTrigger>
           <TabsTrigger value="edit" className="flex-1 text-center">
-            Edit Profile
+            Edit Profileee
           </TabsTrigger>
           <TabsTrigger value="security" className="flex-1 text-center">
             Security
