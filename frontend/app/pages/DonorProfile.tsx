@@ -116,7 +116,7 @@ const DonorProfileAdvanced = () => {
       <Tabs defaultValue="profile" className="w-full mt-4 mb-4">
         <TabsList className="grid w-full grid-cols-3">
           <TabsTrigger value="profile" className="flex-1 text-center">
-            Profilee
+            Profile
           </TabsTrigger>
           <TabsTrigger value="edit" className="flex-1 text-center">
             Edit Profile
